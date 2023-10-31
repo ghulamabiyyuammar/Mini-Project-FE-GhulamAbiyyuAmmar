@@ -33,7 +33,7 @@ const Navbar = () => {
                     <NavLink to="review">Review</NavLink>
                 </li>
                 <li>
-                    <NavLink to="contact">Contact</NavLink>
+                    <NavLink to="chatai">ChatAi</NavLink>
                 </li>
             </ul>
         </nav>

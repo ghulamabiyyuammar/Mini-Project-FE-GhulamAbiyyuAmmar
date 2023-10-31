@@ -11,7 +11,7 @@ const CoursesCard = (props) => {
       <div className=" flex flex-row justify-center">
       </div>
       <div className=" flex flex-row items-center justify-center gap-4">
-        <h2 className=" font-semibold text-lg">{props.price}</h2>
+        <h2 className=" font-star text-lg">{props.price}</h2>
         <Button title="Buy Now" />
       </div>
     </div>
